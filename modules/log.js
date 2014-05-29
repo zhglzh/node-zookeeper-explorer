@@ -47,7 +47,7 @@ log4js.configure({
 		}
 	}, {
 		type : "dateFile",
-		filename : LOG_DIR + '/lxbjs.log',
+		filename : LOG_DIR + '/console.log',
 		pattern : "_yyyy-MM-dd",
 		category : 'dateFileLog',
 		layout : {
