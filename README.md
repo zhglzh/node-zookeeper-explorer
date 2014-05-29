@@ -3,7 +3,7 @@
 [Zookeeper](http://zookeeper.apache.org) management web application for [node.js](http://nodejs.org). Implemented with:
 
 - [expressjs](http://expressjs.com/) and [jade](http://jade-lang.com)
-- [node-zookeeper](https://github.com/yfinkelstein/node-zookeeper)
+- [node-zookeeper-client](https://github.com/alexguan/node-zookeeper-client)
 - [socket.io](http://socket.io)
 - [node-uuid](https://github.com/broofa/node-uuid)
 - [js-yaml](https://github.com/nodeca/js-yaml)
